@@ -1,0 +1,60 @@
+.container{
+    
+ 
+        margin-top: 125px;
+ 
+ }
+#search-button{
+    margin-left: 50px;
+}
+
+ 
+ .container-search{
+margin-left: 570px;
+padding-top: 0%;
+padding-bottom: 20px;
+
+ }
+ #search-input{
+width: 300px;
+font-size: 16px;
+}
+
+#search-xxx{
+    width: 150px;
+    font-size: 16px;
+
+
+}
+
+ .altsol {
+    margin-left: 150px;
+    float: left;
+    padding: 20px;
+   
+
+
+
+ }
+ 
+.altorta{
+  
+    margin-left: 350px;
+    float: left;
+   padding-right: 350px;
+   padding-top: 10px;
+}
+.altright{
+   
+    margin-left: 0px;
+}
+.altright p:last-child{
+    display: inline-block;
+}
+.arsiv{
+    margin-left: 999px;
+    padding-bottom: 1px;
+}
+.sonalt{
+    margin-left: 600px;
+}
